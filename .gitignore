@@ -1,3 +1,10 @@
+# build files
+bin/
+obj/
+packages/
+*.suo
+packages.config
+
 # Windows image file caches
 Thumbs.db
 ehthumbs.db
